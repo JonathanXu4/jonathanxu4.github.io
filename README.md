@@ -4,6 +4,7 @@
 ### [View my LinkedIn Profile](https://www.linkedin.com/in/jonathanxu4/)
 ### [View my Github Profile](https://github.com/JonathanXu4/jonathanxu4.github.io)
 ### [View my Resume](/Resume.pdf)
+
 # Portfolio
 ## [World Chronicle](https://github.com/JonathanXu4/World-Chronicle)
 ### A file organization, viewing, and creation app made for storing and manipulating rich text with a custom designed UI
