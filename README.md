@@ -1,4 +1,4 @@
-<img src="/Headshot.jpg" width="300">
+<img src="/Headshot.jpg" width="500">
 ## Computer Science BS
 ## Junior at Seattle Pacific University
 ### [View my LinkedIn Profile](https://www.linkedin.com/in/jonathanxu4/)
