@@ -6,6 +6,8 @@
 ### [View my Github Profile](https://github.com/JonathanXu4/jonathanxu4.github.io)
 ### [View my Resume](/Resume.pdf)
 
+<br>
+
 # Portfolio
 ## [World Chronicle](https://github.com/JonathanXu4/World-Chronicle)
 
