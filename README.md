@@ -1,6 +1,6 @@
 <img src="Images/Headshot.jpg" width="500">
 
-## Computer Science BS
+## Bachelor of Science in Computer Science
 ## Junior at Seattle Pacific University
 ### [View my LinkedIn Profile](https://www.linkedin.com/in/jonathanxu4/)
 ### [View my Github Profile](https://github.com/JonathanXu4/jonathanxu4.github.io)
