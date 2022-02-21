@@ -21,8 +21,8 @@
 <img src="Images/isbn.png" width="500">
 
 ### A database capable of searching and storing any book by name, author, and ISBN
-## [Fake Restaurant Website](https://murmuring-caverns-96373.herokuapp.com/restaurant/)
-### [Fake Restaurant Repository](https://github.com/JonathanXu4/restaurant)
+## [Restaurant Website](https://murmuring-caverns-96373.herokuapp.com/restaurant/)
+### [Restaurant Repository](https://github.com/JonathanXu4/restaurant)
 
 <img src="Images/burger.png" width="500">
 
