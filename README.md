@@ -11,7 +11,7 @@
 
 # Portfolio
 ## [Gourmacracy Website](https://gourmacracy.herokuapp.com/index.html)
-<img src="Images/worldChronicle.png" width="500">
+<img src="Images/gourmacracy.png" width="500">
 
 ## [World Chronicle](https://github.com/JonathanXu4/World-Chronicle)
 
