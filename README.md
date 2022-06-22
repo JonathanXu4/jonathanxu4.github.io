@@ -16,7 +16,8 @@
 
 ## Course Flow Diagram
 <img src="Images/courseflow.png" width="500">
-### A
+### A program that constructs a course diagram out of a text file. The visualization will change depending on constraints such as starting quarter, number of credits per quarter, prerequisites for each class, and fulfilled prerequisites.
+### Uses Java Runtime Environment 17.0.2, Maven, JGraphT, JGraphX, JFrame
 
 ## [World Chronicle](https://github.com/JonathanXu4/World-Chronicle)
 
