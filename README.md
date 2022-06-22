@@ -14,6 +14,10 @@
 <img src="Images/gourmacracy.png" width="1000">
 ### A full website restaurant ordering app featuring checkout, account creation and login, ordering, validation, and more.
 
+## Course Flow Diagram
+<img src="Images/courseflow.png" width="500">
+### A
+
 ## [World Chronicle](https://github.com/JonathanXu4/World-Chronicle)
 
 <img src="Images/worldChronicle.png" width="500">
