@@ -11,7 +11,8 @@
 
 # Portfolio
 ## [Gourmacracy Website](https://gourmacracy.herokuapp.com/index.html)
-<img src="Images/gourmacracy.png" width="500">
+<img src="Images/gourmacracy.png" width="1000">
+### A full website restaurant ordering app featuring checkout, account creation and login, ordering, validation, and more.
 
 ## [World Chronicle](https://github.com/JonathanXu4/World-Chronicle)
 
