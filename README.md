@@ -10,6 +10,17 @@
 <br>
 
 # Portfolio
+
+## Microsoft Certified: Azure AI Engineer Associate
+<img src="Images/framework.png" width="1000">
+### Professionally certified in Azure AI Solutions with a general knowledge of all commonly used machine learning services such as computer vision, text synthesis, translation, search services, and more.
+### - Proficient in Azure cognitive services and computer vision
+### - Implemented conversational AI, natural language, and voice synthesis
+### - Knowledge of Azure OpenAI and knowledge mining techniques
+
+
+
+
 ## Gourmacracy
 <img src="Images/gourmacracy.png" width="1000">
 ### A full website restaurant ordering app featuring checkout, account creation and login, ordering, validation, and more.
