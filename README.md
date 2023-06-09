@@ -12,7 +12,7 @@
 # Portfolio
 
 ## Microsoft Certified: Azure AI Engineer Associate
-<img src="Images/framework.png" width="1000">
+<img src="Images/framework.png" width="500">
 ### Professionally certified in Azure AI Solutions with a general knowledge of all commonly used machine learning services such as computer vision, text synthesis, translation, search services, and more.
 ### - Proficient in Azure cognitive services and computer vision
 ### - Implemented conversational AI, natural language, and voice synthesis
