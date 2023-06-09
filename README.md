@@ -19,8 +19,6 @@
 ### - Knowledge of Azure OpenAI and knowledge mining techniques
 
 
-
-
 ## Gourmacracy
 <img src="Images/gourmacracy.png" width="1000">
 ### A full website restaurant ordering app featuring checkout, account creation and login, ordering, validation, and more.
@@ -28,6 +26,8 @@
 ### - Accessible user interface with navigation bar and account management
 ### - Secure database for menu management and credit-card processing
 ### - Fully operational shopping cart and purchase history
+### Programmed using HTML, CSS, JavaScript, Node.js, bootstrap, express, and various other services
+### Uses MongoDB and Heroku for website and database hosting
 
 
 ## Course Flow Diagram
@@ -40,13 +40,20 @@
 <img src="Images/worldChronicle.png" width="500">
 
 ### A file organization, viewing, and creation app made for storing and manipulating rich text with a custom designed UI
+### Programmed in Qt and C++
 ### [Grand Library Repository](https://github.com/JonathanXu4/front-api)
 
 <img src="Images/isbn.png" width="500">
 
 ### A database capable of searching and storing any book by name, author, and ISBN
+### Accesses a backend that stores book titles and related book information
+### Allows users to add books to the database and search for them
+### Programmed in HTML, CSS, and JavaScript
+### Uses MongoDB and Heroku for website and database hosting
 ### [Restaurant Repository](https://github.com/JonathanXu4/restaurant)
 
 <img src="Images/burger.png" width="500">
 
 ### A fake restaurant with a login page, nutrition facts, navigation, and various other information
+### Programmed in HTML, CSS, and JavaScript
+### Hosted using Heroku
