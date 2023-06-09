@@ -13,6 +13,7 @@
 ## Gourmacracy
 <img src="Images/gourmacracy.png" width="1000">
 ### A full website restaurant ordering app featuring checkout, account creation and login, ordering, validation, and more.
+## Implemented from scratch with a team of five graduating computer science majors over the course of a full year, starting from a 60-page system proposal document extensively detailing every possibility and feature.
 ## Accessible user interface with navigation bar and account management
 ## Secure database for menu management and credit-card processing
 ## Fully operational shopping cart and purchase history
