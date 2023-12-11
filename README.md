@@ -11,14 +11,6 @@
 
 # Portfolio
 
-## Microsoft Certified: Azure AI Engineer Associate
-<img src="Images/framework.png" width="500">
-### Professionally certified in Azure AI Solutions with a general knowledge of all commonly used machine learning services such as computer vision, text synthesis, translation, search services, and more.
-### - Proficient in Azure cognitive services and computer vision
-### - Implemented conversational AI, natural language, and voice synthesis
-### - Knowledge of Azure OpenAI and knowledge mining techniques
-
-
 ## Gourmacracy
 <img src="Images/gourmacracy.png" width="1000">
 ### [View website](https://gourmacracy.onrender.com/)
@@ -30,6 +22,12 @@
 ### Programmed using HTML, CSS, JavaScript, Node.js, bootstrap, express, and various other services
 ### Uses MongoDB and Render for website and database hosting
 
+## Microsoft Certified: Azure AI Engineer Associate
+<img src="Images/framework.png" width="500">
+### Professionally certified in Azure AI Solutions with a general knowledge of all commonly used machine learning services such as computer vision, text synthesis, translation, search services, and more.
+### - Proficient in Azure cognitive services and computer vision
+### - Implemented conversational AI, natural language, and voice synthesis
+### - Knowledge of Azure OpenAI and knowledge mining techniques
 
 ## Course Flow Diagram
 <img src="Images/courseflow.png" width="500">
