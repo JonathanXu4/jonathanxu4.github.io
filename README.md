@@ -1,7 +1,7 @@
 <img src="Images/Headshot.jpg" width="500">
 
 ## Bachelor of Science in Computer Science
-## Senior at Seattle Pacific University
+## Graduated from Seattle Pacific University
 ### [View my LinkedIn Profile](https://www.linkedin.com/in/jonathanxu4/)
 ### [View my Github Profile](https://github.com/JonathanXu4/jonathanxu4.github.io)
 ### [View my Resume](/resume.pdf)
